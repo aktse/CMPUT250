@@ -6,22 +6,22 @@ Title: Angry Tomaat
 Team Members
 --------------------------
 
-Ondra Chan - Programmer
-Kristina Drozdiak - Writer
-Cody Ingram - Musician
-Mark Keohane - Programmer
-Nil Lasquety - Artist
-Aaron Tse - Programmer
-Jack Wang - Executive Producer
+- Ondra Chan - Programmer
+- Kristina Drozdiak - Writer
+- Cody Ingram - Musician
+- Mark Keohane - Programmer
+- Nil Lasquety - Artist
+- Aaron Tse - Programmer
+- Jack Wang - Executive Producer
 
 --------------------------
 Files
 --------------------------
 
-All .mod files (good end, legend, neuend, Shade) go into the nwn module file
-nathan.bic goes into the localvault  nwn file
-The four .bik files (good, bad, neutral, intro) go into the nwn movies file
-The shadeV1full.hak goes in the nwn hak file
+1. All .mod files (good end, legend, neuend, Shade) go into the nwn module file
+2. nathan.bic goes into the localvault  nwn file
+3. The four .bik files (good, bad, neutral, intro) go into the nwn movies file
+4. The shadeV1full.hak goes in the nwn hak file
 
 --------------------------
 Instructions
